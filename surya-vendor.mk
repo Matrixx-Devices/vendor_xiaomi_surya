@@ -231,6 +231,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/surya/proprietary/vendor/lib64/camera/com.qti.sensormodule.j20c_sunny_hi1337_ultra.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.sensormodule.j20c_sunny_hi1337_ultra.bin \
     vendor/xiaomi/surya/proprietary/vendor/lib64/camera/com.qti.sensormodule.j20c_sunny_imx682_ver2_wide.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.sensormodule.j20c_sunny_imx682_ver2_wide.bin \
     vendor/xiaomi/surya/proprietary/vendor/lib64/camera/com.qti.sensormodule.j20c_sunny_imx682_wide.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.sensormodule.j20c_sunny_imx682_wide.bin \
+	vendor/xiaomi/surya/proprietary/vendor/lib/soundfx/libmisoundfx.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libmisoundfx.so \
     vendor/xiaomi/surya/proprietary/vendor/lib64/camera/com.qti.sensormodule.j20c_sunny_s5k3t2_front.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.sensormodule.j20c_sunny_s5k3t2_front.bin \
     vendor/xiaomi/surya/proprietary/vendor/lib64/camera/com.qti.tuned.default.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.tuned.default.bin \
     vendor/xiaomi/surya/proprietary/vendor/lib64/camera/com.qti.tuned.j20c_aac_gc02m1b_depth_global.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.tuned.j20c_aac_gc02m1b_depth_global.bin \
